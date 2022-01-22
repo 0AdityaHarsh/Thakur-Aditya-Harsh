@@ -1,0 +1,5 @@
+- 👋 Hello everyone! I'm Aditya Harsh
+- 👀 I’m interested in art, literature, sports and coding
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on general day to day projects
+- 📫 To contact me, please mail me at harshaditya46@gmail.com
